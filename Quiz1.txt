@@ -1,0 +1,7 @@
+Question 1:
+Why is it good to use data structures in the main?
+They can reduce the running time of applications
+
+Question 2:
+What is the difference between data structures and abstract data types?
+Abstract data types are specifications and data structures are the concrete implementations

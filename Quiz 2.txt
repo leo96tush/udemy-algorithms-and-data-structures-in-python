@@ -1,0 +1,10 @@
+Question1 : Why to use linked lists over arrays?
+Because it is faster to insert items at the beginning of the list as we do not have to rearrange the array , just update the references accordingly
+
+Question 2 : When will we end up with an O(N) algorithm as far as arrays are concerned?
+When we insert items at the beginning of the list
+
+Question 3 : Which data structure to choose if our aim is to minimize the amount of memory we use?
+Array
+
+

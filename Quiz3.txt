@@ -1,0 +1,11 @@
+Question 1:
+Stacks and queues are data structures
+Ans: Stacks and Queues are abstract data structures
+
+Question 2:
+Stacks have a FIFO structure
+Ans: False
+
+Question 3:
+Queues have a FIFO structure
+Ans: True
